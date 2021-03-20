@@ -45,6 +45,7 @@ ggplot(skinny_df,aes(Order.Date, stock.value)) + geom_line()
 # MAYBE USE DIFFERENT TEMPLATE FOR VIEW
 # Y AXIS NOT IN EXP FORMAT BUT IN DOLLARS
 
+# more garbage 
 
 # View(skinny_df)
 
