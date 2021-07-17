@@ -4,7 +4,7 @@ library(readr)
 library(ggplot2)
 
 # import data set of AMZN orders from 2006 to current date
-df <- read.csv("/Users/fayadabbasi/Dropbox/Investing/AMZN_Order_Project/complete_order_history.csv")
+df <- read.csv(".~/AMZN_Order_Project/complete_order_history.csv")
 
 # create a data set for stock prices
 
